@@ -123,6 +123,10 @@ git add .
 git commit -m "Hello.js added"
 
 
+Push All Branches to Remote:
+git push origin feature-dev
+git push origin feature-design
+
 
 
 
